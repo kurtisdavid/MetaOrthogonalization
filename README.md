@@ -18,6 +18,12 @@
 }
 ```
 
+## Required Libraries
+To successfully run the code in this repo, make sure you have the following libraries installed:
+* PyTorch 1.5.0 (CUDA 10.1)
+* [higher](https://github.com/facebookresearch/higher)
+* [bam](https://github.com/google-research-datasets/bam)
+
 ## Overview
 This is the official implementation of Meta Orthogonalization in [PyTorch](https://pytorch.org/).
 Our main idea is to debias convolutional networks by making downstream concepts be orthogonal to a learned bias direction. This is directly inspired by similar methods in NLP by [Bolukbasi et. al](https://arxiv.org/abs/1607.06520).
