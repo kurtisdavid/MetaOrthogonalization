@@ -20,3 +20,10 @@
 
 ## Overview
 This is the official implementation of Meta Orthogonalization in [PyTorch](https://pytorch.org/).
+Our main idea is to debias convolutional networks by making downstream concepts be orthogonal to a learned bias direction. This is directly inspired by similar methods in NLP by [Bolukbasi et. al](https://arxiv.org/abs/1607.06520).
+
+## Acknowledgement
+We would like to thank Tianlu Wang for collaborating and providing more details with [adversarial debiasing](https://arxiv.org/abs/1811.08489) and their models. Please also cite their paper if you use this codebase for COCO, as we use theirs provided [here](https://github.com/uvavision/Balanced-Datasets-Are-Not-Enough).
+
+## Contact
+If you have any questions, please contact us through kurtis.e.david(at)gmail.com.
