@@ -4,6 +4,10 @@
 [Ruth Fong](https://ruthcfong.github.io/)
 ## [[Paper]](https://arxiv.org/abs/2011.07453)
 
+<div align="center">
+  <img src="metaortho_figure.pdf" />
+</div>
+
 ## Citation
 ```bibtex
 @article{david2020debiasing,
