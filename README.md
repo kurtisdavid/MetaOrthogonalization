@@ -5,7 +5,7 @@
 ## [[Paper]](https://arxiv.org/abs/2011.07453)
 
 <div align="center">
-  <img src="metaortho_figure.pdf" />
+  <img src="metaortho_figure.png" />
 </div>
 
 ## Citation
