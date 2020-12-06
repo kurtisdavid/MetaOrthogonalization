@@ -1,6 +1,6 @@
 # MetaOrthogonalization <br>
-[Kurtis Evan David](https://kurtisdavid.github.io)
-[Qiang Liu](https://www.cs.utexas.edu/~lqiang/)
+[Kurtis Evan David](https://kurtisdavid.github.io), 
+[Qiang Liu](https://www.cs.utexas.edu/~lqiang/), 
 [Ruth Fong](https://ruthcfong.github.io/)
 ## [[Paper]](https://arxiv.org/abs/2011.07453)
 
