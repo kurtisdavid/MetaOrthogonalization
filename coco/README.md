@@ -1,13 +1,17 @@
 ## Instructions to recreate COCO Experiments
 
-To train from scratch, copy over the contents of scripts folder to MetaOrthogonalization/coco:
+1. To train from scratch, copy over the contents of scripts folder to `MetaOrthogonalization/coco`:
 
-` cp scripts/* ./` <br>
+`cp scripts/* ./` <br>
 
-Next, prepare the COCO dataset by running 
+2. Prepare the COCO dataset: 
 
-` ./prepare_coco.sh ` <br>
+`./prepare_coco.sh` <br>
 
-Then, run `./coco_pipeline.sh`. Follow the comments in the scripts to choose which subset of experiments you want to run. <br>
+3. Run 
 
-To download the pretrained models, go to this Drive: 
+`./coco_pipeline.sh` <br> 
+Follow the comments in the scripts to choose which subset of experiments you want to run. <br>
+
+## Pretrained Models
+To download the pretrained models, go to this [Drive](https://drive.google.com/file/d/13pjIoy1dVCiQOxFQbbT6Dhbwoj7p9CrJ/view?usp=sharing) 

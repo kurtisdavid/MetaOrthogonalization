@@ -1,13 +1,17 @@
 ## Instructions to recreate BAM Experiments
 
-To train from scratch, copy over the contents of scripts folder to MetaOrthogonalization/bam:
+1. To train from scratch, copy over the contents of scripts folder to `MetaOrthogonalization/bam`:
 
-` cp scripts/* ./` <br>
+`cp scripts/* ./` <br>
 
-Next, prepare the BAM dataset by running 
+2. Prepare the BAM dataset: 
 
-` ./prepare_bam.sh ` <br>
+`./prepare_bam.sh` <br>
 
-Then, run `./pipeline.sh`. Follow the comments in the scripts to choose which subset of experiments you want to run. <br>
+3. Run 
 
-To download the pretrained models, go to this Drive: 
+`./pipeline.sh` <br> 
+Follow the comments in the scripts to choose which subset of experiments you want to run. <br>
+
+## Pretrained Models
+To download the pretrained models, go to this [Drive](https://drive.google.com/file/d/13pjIoy1dVCiQOxFQbbT6Dhbwoj7p9CrJ/view?usp=sharing) 
